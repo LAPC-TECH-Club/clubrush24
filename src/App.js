@@ -53,6 +53,7 @@ const ControlPanel = styled.div`
   left: 50%;
   transform: translateX(-50%);
   z-index: 10;
+  opacity: 0.5;
 `;
 
 const Button = styled.button`
